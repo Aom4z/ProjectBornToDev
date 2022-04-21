@@ -1,0 +1,25 @@
+
+body {
+    margin:auto;
+    font-family: Verdana, sans-serif;
+    background-image: url('preview.jpg');
+    background-repeat: repeat;
+}
+
+.row{
+    color: rgb(250, 0, 0);
+    margin-top:50px;
+}
+.box{
+    color: rgb(255, 255, 255);
+    width:200px;
+    margin:auto;
+}
+#result{
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    width:500px;
+}
+#btn{
+    margin-top: 20px;
+}
